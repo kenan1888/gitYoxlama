@@ -4,7 +4,7 @@ public class Main {
 
 
         System.out.println("sasdfasdf");
-
+        System.out.println("mainde deyisiklik/ comiti yoxlamaq ucun");
 
         }
     }
