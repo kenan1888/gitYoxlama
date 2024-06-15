@@ -5,6 +5,6 @@ public class Main {
 
         System.out.println("sasdfasdf");
         System.out.println("mainde deyisiklik/ comiti yoxlamaq ucun");
-
+        System.out.println("3cu sout elave etdim");
         }
     }
